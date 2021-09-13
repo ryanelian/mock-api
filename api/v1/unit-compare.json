@@ -1,0 +1,20 @@
+{
+    "car1": "Isuzu ELF NLR 71 T",
+    "car2": "Isuzu ELF NLR 55 T",
+    "specifications": [
+        {
+            "name": "Dimensi",
+            "indicators": [
+                {
+                    "name": "Panjang",
+                    "unit": "mm",
+                    "car1Value": 4.700,
+                    "car2Value": 4.600,
+                    "order": 1
+                }
+            ],
+            "order": 1,
+            "collapse": false
+        }
+    ]
+}
