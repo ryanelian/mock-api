@@ -1,0 +1,12 @@
+[
+    {
+        "addressId": "3692e243-7420-4fb2-8b62-bff1933f112e",
+        "name": "Alamat 1",
+        "address": "Jl. Alamanda 1 blok 2 no. 3\n Jakarta Selatan, DKI Jakarta"
+    },
+    {
+        "addressId": "c7ecd6d6-79fe-4298-9d2e-144a0a5d5490",
+        "name": "Alamat 2",
+        "address": "Jl. Alamanda 4 blok 5 no. 6\n Jakarta Selatan, DKI Jakarta"
+    }
+]
