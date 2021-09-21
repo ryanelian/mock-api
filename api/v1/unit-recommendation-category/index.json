@@ -1,26 +1,26 @@
 [
     {
         "unitRecommendationCategoryId": "4d8fc750-585a-459b-9ab3-8adbf0e19692",
-        "name": "Data 1"
+        "name": "Kategori Truk 1"
     },
     {
         "unitRecommendationCategoryId": "c0f13756-c776-4ac3-be53-73169dbdf464",
-        "name": "Data 2"
+        "name": "Kategori Truk 2"
     },
     {
         "unitRecommendationCategoryId": "a66d6665-e59a-42e0-88d0-b07d94ef81ba",
-        "name": "Data 3"
+        "name": "Kategori Truk 3"
     },
     {
         "unitRecommendationCategoryId": "de1ba15f-5bed-44c7-8b75-965f2d4bcdd9",
-        "name": "Data 4"
+        "name": "Kategori Truk 4"
     },
     {
         "unitRecommendationCategoryId": "f3d996d6-ac74-419d-b6ff-acbcc64d0967",
-        "name": "Data 5"
+        "name": "Kategori Truk 5"
     },
     {
         "unitRecommendationCategoryId": "614659be-a1a3-48be-bdb0-9dd28e67120e",
-        "name": "Data 6"
+        "name": "Kategori Truk 6"
     }
 ]
