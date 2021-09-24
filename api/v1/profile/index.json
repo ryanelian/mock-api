@@ -1,0 +1,28 @@
+{
+    "type": "individual",
+    "fullName": "John Smith",
+    "ktp": "3404075103910008",
+    "npwp": "820007959044000",
+    "companyName": "Pt. Accelist Lentera Indonesia",
+    "industryType": [
+        {
+            "industryId": "b6144050-280f-4edd-87fe-6d126506c7c1",
+            "name": "Perikanan",
+            "isChecked": true
+        },
+        {
+            "industryId": "061d41d9-fc61-45b3-843f-ae92eedb3b50",
+            "name": "Pertambangan dan minyak bumi",
+            "isChecked": true
+        },
+        {
+            "industryId": "bfc15866-ff0c-4133-b2e3-9a660f16143e",
+            "name": "Pertanian",
+            "isChecked": false
+        }
+    ],
+    "email": "john.smith@accelist.com",
+    "phoneNumber": "08123456789",
+    "alamatPrimer": "Jl. Alamanda 1 blok 2 no. 3\nJakarta Selatan, DKI Jakarta",
+    "imageUri": "https://ryanelian.github.io/mock-api/images/account.png"
+}
