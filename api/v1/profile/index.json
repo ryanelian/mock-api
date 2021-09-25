@@ -1,9 +1,9 @@
 {
-    "type": "individual",
+    "type": "Individual",
     "fullName": "John Smith",
     "ktp": "3404075103910008",
     "npwp": "820007959044000",
-    "companyName": "Pt. Accelist Lentera Indonesia",
+    "companyName": "PT. Accelist Lentera Indonesia",
     "industryType": [
         {
             "industryId": "b6144050-280f-4edd-87fe-6d126506c7c1",
