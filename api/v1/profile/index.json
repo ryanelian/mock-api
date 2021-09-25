@@ -23,6 +23,6 @@
     ],
     "email": "john.smith@accelist.com",
     "phoneNumber": "08123456789",
-    "alamatPrimer": "Jl. Alamanda 1 blok 2 no. 3\nJakarta Selatan, DKI Jakarta",
+    "primaryAddress": "Jl. Alamanda 1 blok 2 no. 3\nJakarta Selatan, DKI Jakarta",
     "imageUri": "https://ryanelian.github.io/mock-api/images/account.png"
 }
