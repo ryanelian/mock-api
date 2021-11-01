@@ -1,3 +1,37 @@
 [
-    
+    {
+        "carId": "5e2921b9-448d-42bb-9b47-3616ccd2817d",
+        "carSeriesName": "Isuzu GIGA",
+        "carVariantName": "Isuzu GIGA FTR 90 H-TH",
+        "frameNumber": "01921935441251",
+        "plateNumber": "D 1234 UPY"
+    },
+    {
+        "carId": "f29df265-7e30-4aa2-9d4c-8c87f57ee128",
+        "carSeriesName": "Isuzu GIGA",
+        "carVariantName": "Isuzu GIGA FTR 90 H-TH",
+        "frameNumber": "01921935441251",
+        "plateNumber": "D 1234 UPY"
+    },
+    {
+        "carId": "76684fc9-ba40-41a9-ac17-60466ee4ef59",
+        "carSeriesName": "Isuzu GIGA",
+        "carVariantName": "Isuzu GIGA FTR 90 H-TH",
+        "frameNumber": "01921935441251",
+        "plateNumber": "D 1234 UPY"
+    },
+    {
+        "carId": "c825c210-4b92-4562-a513-6b1133ea28fa",
+        "carSeriesName": "Isuzu GIGA",
+        "carVariantName": "Isuzu GIGA FTR 90 H-TH",
+        "frameNumber": "01921935441251",
+        "plateNumber": "D 1234 UPY"
+    },
+    {
+        "carId": "d74fb733-4afc-421d-a11a-93f0c1b839f1",
+        "carSeriesName": "Isuzu GIGA",
+        "carVariantName": "Isuzu GIGA FTR 90 H-TH",
+        "frameNumber": "01921935441251",
+        "plateNumber": "D 1234 UPY"
+    }
 ]
