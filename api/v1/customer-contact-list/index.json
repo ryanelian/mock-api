@@ -1,37 +1,37 @@
 [
     {
-        "customerId": "e87b94c0-5b36-47b8-8bd5-8bc8cff93074",
-        "namaKontak": "Kontak 1",
-        "nomorHandphone": "0838841254475",
-        "alamatEmail": "test1@gmail.com",
-        "alamat": "Jl. Amanda 1 blok 2 no 3"
+        "accountId": "e87b94c0-5b36-47b8-8bd5-8bc8cff93074",
+        "name": "Kontak 1",
+        "phoneNumber": "0838841254475",
+        "email": "test1@gmail.com",
+        "primaryAddress": "Jl. Amanda 1 blok 2 no 3"
     },
     {
-        "customerId": "3fb926ad-11c4-41ad-a2ff-8c66d915b996",
-        "namaKontak": "Kontak 2",
-        "nomorHandphone": "083884125442323",
-        "alamatEmail": "test2@gmail.com",
-        "alamat": "Jl. Amanda 2 blok 3 no 4"
+        "accountId": "3fb926ad-11c4-41ad-a2ff-8c66d915b996",
+        "name": "Kontak 2",
+        "phoneNumber": "083884125442323",
+        "email": "test2@gmail.com",
+        "primaryAddress": "Jl. Amanda 2 blok 3 no 4"
     },
     {
-        "customerId": "1175da43-326b-45a3-9222-1bb28ce61dbf",
-        "namaKontak": "Kontak 1",
-        "nomorHandphone": "0838841254475",
-        "alamatEmail": "test1@gmail.com",
-        "alamat": "Jl. Amanda 1 blok 2 no 3"
+        "accountId": "1175da43-326b-45a3-9222-1bb28ce61dbf",
+        "name": "Kontak 1",
+        "phoneNumber": "0838841254475",
+        "email": "test1@gmail.com",
+        "primaryAddress": "Jl. Amanda 1 blok 2 no 3"
     },
     {
-        "customerId": "3420cec7-75f5-43fd-b0ca-6abbfb762a2c",
-        "namaKontak": "Kontak 1",
-        "nomorHandphone": "0838841254475",
-        "alamatEmail": "test1@gmail.com",
-        "alamat": "Jl. Amanda 1 blok 2 no 3"
+        "accountId": "3420cec7-75f5-43fd-b0ca-6abbfb762a2c",
+        "name": "Kontak 1",
+        "phoneNumber": "0838841254475",
+        "email": "test1@gmail.com",
+        "primaryAddress": "Jl. Amanda 1 blok 2 no 3"
     },
     {
-        "customerId": "a1c7c28e-2241-4c07-99ca-da3e567ec9a2",
-        "namaKontak": "Kontak 1",
-        "nomorHandphone": "0838841254475",
-        "alamatEmail": "test1@gmail.com",
-        "alamat": "Jl. Amanda 1 blok 2 no 3"
+        "accountId": "a1c7c28e-2241-4c07-99ca-da3e567ec9a2",
+        "name": "Kontak 1",
+        "phoneNumber": "0838841254475",
+        "email": "test1@gmail.com",
+        "primaryAddress": "Jl. Amanda 1 blok 2 no 3"
     }
 ]
