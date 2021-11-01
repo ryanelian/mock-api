@@ -1,0 +1,20 @@
+[
+    {
+        "historyId": "029b02cb-94d6-49b7-9363-6be598cb5a9b",
+        "date": "2021-11-01",
+        "description": "Pembelian Unit Baru",
+        "carVariantName": "ELF NLR 55 TLX",
+        "type": "Purchase",
+        "ongoing": false,
+        "requestId": null
+    },
+    {
+        "historyId": "8516d74a-9c35-426c-8d14-fc5929767722",
+        "date": "2021-06-02",
+        "description": "Permintaan Presentasi dan Penawaran",
+        "carVariantName": "ELF NLR 55 T",
+        "type": "Presentation",
+        "ongoing": true,
+        "requestId": "1119554762"
+    }
+]
