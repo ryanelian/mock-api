@@ -1,3 +1,22 @@
 {
-    
+    "accountId": "e87b94c0-5b36-47b8-8bd5-8bc8cff93074",
+    "name": "Kontak 1",
+    "phoneNumber": "0838841254475",
+    "email": "test1@gmail.com",
+    "address": "Jl. Amanda 1 blok 2 no 3",
+    "check": [{
+            "value": "Keluarga",
+            "checked": true
+        },
+        {
+            "value": "Driver",
+            "checked": false
+        },
+        {
+            "value": "Karyawan Non Driver",
+            "checked": false
+        }
+    ],
+    "longitude": -6.175431,
+    "latitude": 106.827998
 }
