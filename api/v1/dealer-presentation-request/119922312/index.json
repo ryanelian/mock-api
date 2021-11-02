@@ -8,6 +8,7 @@
     "carVariant": "Isuzu ELF NLR 55 TLX",
     "date": "2021-11-02",
     "status": "Menunggu Konfirmasi",
+    "needConfirmation": true,
     "salesId": "123123123",
     "salesName": "Budi Budiman"
 }
