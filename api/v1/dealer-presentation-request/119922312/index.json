@@ -1,0 +1,13 @@
+{
+    "requestId": "119922312",
+    "customerName": "John Smith",
+    "customerPhoneNumber": "082123456798",
+    "customerEmail": "johnsmith@gmail.com",
+    "address": "Jalan Kapten Tendean",
+    "dealerCode": "00612345",
+    "carVariant": "Isuzu ELF NLR 55 TLX",
+    "date": "2021-11-02",
+    "status": "Menunggu Konfirmasi",
+    "salesId": "123123123",
+    "salesName": "Budi Budiman"
+}
