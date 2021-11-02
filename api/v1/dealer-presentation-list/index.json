@@ -1,0 +1,23 @@
+[
+    {
+        "requestId": "1119554762",
+        "date": "2021-06-02",
+        "description": "Permintaan Presentasi dan Penawaran",
+        "carVariantName": "ELF NLR 55 T",
+        "needConfirmation": true
+    },
+    {
+        "requestId": "1119554763",
+        "date": "2021-06-01",
+        "description": "Permintaan Presentasi dan Penawaran",
+        "carVariantName": "ELF NLR 55 T",
+        "needConfirmation": false
+    },
+    {
+        "requestId": "1119554764",
+        "date": "2021-06-01",
+        "description": "Permintaan Presentasi dan Penawaran",
+        "carVariantName": "ELF NLR 55 T",
+        "needConfirmation": false
+    }
+]
