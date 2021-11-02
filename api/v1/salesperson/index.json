@@ -1,18 +1,22 @@
 [
     {
         "salespersonId": "ASAS123456",
-        "fullName": "Budi Budiman"
+        "fullName": "Budi Budiman",
+        "phoneNumber": "0818123456789"
     },
     {
         "salespersonId": "ASAS123457",
-        "fullName": "Budi Budiman"
+        "fullName": "Budi Budiman",
+        "phoneNumber": "0818123456789"
     },
     {
         "salespersonId": "ASAS123458",
-        "fullName": "Budi Budiman"
+        "fullName": "Budi Budiman",
+        "phoneNumber": "0818123456789"
     },
     {
         "salespersonId": "ASAS123459",
-        "fullName": "Budi Budiman"
+        "fullName": "Budi Budiman",
+        "phoneNumber": "0818123456789"
     }
 ]
