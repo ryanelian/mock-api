@@ -1,0 +1,27 @@
+[
+    {
+        "accountId": "ASD123",
+        "fullName": "Amanda Renova",
+        "jabatan": "Staff Admin"
+    },
+    {
+        "accountId": "ASD124",
+        "fullName": "Amanda Renova",
+        "jabatan": "Staff Penjualan"
+    },
+    {
+        "accountId": "ASD126",
+        "fullName": "Amanda Renova",
+        "jabatan": "Kepala Mekanik"
+    },
+    {
+        "accountId": "ASD125",
+        "fullName": "Amanda Renova",
+        "jabatan": "Mekanik Senior"
+    },
+    {
+        "accountId": "ASD127",
+        "fullName": "Amanda Renova",
+        "jabatan": "Mekanik"
+    }
+]
