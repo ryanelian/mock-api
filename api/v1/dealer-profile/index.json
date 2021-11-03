@@ -1,0 +1,9 @@
+{
+    "type": "Sales",
+    "userCode": "IZ123",
+    "fullName": "Budi Budiman",
+    "position": "Staff Penjualan",
+    "outletCode": "DMI123",
+    "phoneNumber": "0822541789965",
+    "imageUri": "https://ryanelian.github.io/mock-api/images/account.png"
+}
