@@ -2,26 +2,26 @@
     {
         "accountId": "ASD123",
         "fullName": "Amanda Renova",
-        "jabatan": "Staff Admin"
+        "position": "Staff Admin"
     },
     {
         "accountId": "ASD124",
         "fullName": "Rossalinda",
-        "jabatan": "Staff Penjualan"
+        "position": "Staff Penjualan"
     },
     {
         "accountId": "ASD126",
         "fullName": "Reynold Bryan",
-        "jabatan": "Kepala Mekanik"
+        "position": "Kepala Mekanik"
     },
     {
         "accountId": "ASD125",
         "fullName": "Amanda Renova",
-        "jabatan": "Mekanik Senior"
+        "position": "Mekanik Senior"
     },
     {
         "accountId": "ASD127",
         "fullName": "Amanda Renova",
-        "jabatan": "Mekanik"
+        "position": "Mekanik"
     }
 ]
