@@ -1,6 +1,6 @@
 {
     "phoneNumber": "08123456789",
-    "otpTimer": 30,
+    "otpTimer": 15,
     "isVerified": false,
-    "isOtpSent": false
+    "isOtpSent": true
 }
